@@ -1,4 +1,4 @@
-# local_cleanup_tool
+# Local Cleanup Tool
 Cleans your project files within Maya
 
 ## Requirements
